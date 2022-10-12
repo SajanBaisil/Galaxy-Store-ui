@@ -106,7 +106,7 @@ class _HomescreenState extends State<Homescreen> {
                       Tab(
                         child: Center(
                           child: Text(
-                            'Trending',
+                            'Shopping',
                             style: TextStyle(color: Colors.white),
                           ),
                         ),
